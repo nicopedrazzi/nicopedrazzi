@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I've been coding in python and typescript for the past 3 years
-- I studied Medical Engineering
-- Currently I am refining my skills in backend development
-- I like machine learning and deep learning, with a weak spot for computer vision
+- I've been coding in python and typescript for the past 3 years.
+- I studied Medical Engineering.
+- Currently I am refining my skills in backend development on [Boot.dev](https://www.boot.dev/dashboard) and spending time with rabbitMQ and postgres.
+- I like machine learning and deep learning, with a weak spot for computer vision.
 - You can contact me on my [Linkedin](https://www.linkedin.com/in/nicolas-pedrazzi-849451225/ )
