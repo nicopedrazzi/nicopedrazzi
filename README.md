@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - I like machine learning and deep learning, with a weak spot for computer vision.
 - You can contact me on my [Linkedin](https://www.linkedin.com/in/nicolas-pedrazzi-849451225/ )
 
-### Check put my latest project: [Thinkbox](https://github.com/nicopedrazzi/Thinkbox) 
+### Check out my latest project: [Thinkbox](https://github.com/nicopedrazzi/Thinkbox) 
